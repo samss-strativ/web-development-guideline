@@ -1,4 +1,4 @@
-# Web development guideline and resources by Samss Jubair\
+# Complete Web Development Guideline and Resources by Samss Jubair
 
 ## Class Projects link:
 1. [Class 1 and 2 GitHub Repo](https://github.com/samss-strativ/batch-4)
